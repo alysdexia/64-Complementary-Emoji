@@ -1,5 +1,5 @@
 # 64-Complementary-Emoji
-My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they sent back then plagiarized
+My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they sent back then [plagiarized](http://web.archive.org/web/20180417225811/www.unicode.org/emoji/emoji-requests.html)
 
 1. dwarf
 2. dwarfess
@@ -30,7 +30,7 @@ My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they
 27. moss
 28. nest
 29. seaweed
-30. butter
+30. **butter**
 31. ice cube
 32. pepper
 33. **salt**
@@ -38,7 +38,7 @@ My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they
 35. sugar
 36. *compass rose*: compass
 37. cave
-38. lighthouse
+38. **lighthouse**
 39. log cabin
 40. ruin
 41. **pyramid**
@@ -58,7 +58,7 @@ My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they
 55. **brick**
 56. chair
 57. desk
-58. pipe
+58. **pipe**
 59. post
 60. rock
 61. **soap bar**
