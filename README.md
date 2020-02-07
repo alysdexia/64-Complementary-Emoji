@@ -1,5 +1,5 @@
 # 64-Complementary-Emoji
-My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they sent back then [plagiarized](http://web.archive.org/web/20180417225811/www.unicode.org/emoji/emoji-requests.html)
+My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they sent back then [plagiarized](http://web.archive.org/web/20180417225811/www.unicode.org/emoji/emoji-requests.html).  They didn't like the bulk format of my submissions and the lack of usage timeline despite my following of the guideline sections and the lack of correlation between trend and encoding.  The main [culprit](http://emojination.org) proposes and gets published my submissions without attribution and excerpt of my proposal.
 
 1. dwarf
 2. dwarfess
@@ -28,7 +28,7 @@ My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they
 25. **fly**
 26. grass
 27. moss
-28. nest
+28. nest...
 29. seaweed
 30. **butter**
 31. **ice cube**
@@ -53,7 +53,7 @@ My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they
 50. fireplace
 51. oven
 52. rope
-53. stove
+53. stove...
 54. **basket**
 55. **brick**
 56. **chair**
@@ -62,6 +62,6 @@ My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they
 59. post
 60. **rock**
 61. **soap bar**
-62. table
+62. table...
 63. towel
 64. **window**
