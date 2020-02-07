@@ -12,7 +12,7 @@ My 2016 Sep 30 proposal to Unicode Technical Committee [Emoji Subcommittee] they
 9. **mermaid**
 10. **merman**
 11. nymph
-12. **troll**
+12. troll...
 13. **vampire**
 14. **vampiress**
 15. werewolf
